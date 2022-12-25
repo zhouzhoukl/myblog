@@ -1,0 +1,276 @@
+baseURL: "https://www.zhouzhoukl.com/"
+title: Zhou's Home
+paginate: 5
+theme: hugo-PaperModX
+# NOTE remove this line if you copy exampleSite outof hugo-PaperModX
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: Zhou's Home
+  author:
+    - 周洲
+  images: 
+    - images/avatar.jpeg
+  favicon: "https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/avatar.jpeg"
+  logo:
+    icon: images/avatar.jpeg
+  mainSections:
+    - blog
+  disableAnchoredHeadings: true
+  DateFormat: "2006-01-02"
+  useCustomAnalytics: true
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  DisableLanguageSwitch: true
+  ShowShareButtons: true
+  ShareButtons:
+    - twitter
+    - telegram
+  ShowReadingTime: true
+  ShowWordCount: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+  TocSide: "right"
+  EnableInstantClick: true
+  EnableImageZoom: true
+  Email: kele@thewan.cc
+
+  # commentSystems:
+  #   disqus:
+  #     shortname: reorx
+  #   remark42:
+  #     url: https://remark42.reorx.com
+  #     site: reorx.github.io
+  #   telegramWidget:
+  #     channel: reorx_share
+  #     accentColor: "9077e1"
+  #     limit: 20
+  # defaultCommentSystems:
+  #   remark42: true
+
+  profileMode:
+    enabled: false
+    title: PaperModX
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: /archives/
+      - name: Tags
+        url: /tags/
+
+  homeInfoParams:
+    Title: "Winter is coming. </br > Life goes on."
+    Content: |
+      Hi，我是周洲，以下是一些简单的关于：
+
+      - **创业者**
+
+        除了编程不行啥都能搞搞的半吊子创业者，正在创造有趣的产品···
+
+      - **简介**
+
+        INTJ | Dc | 5 | 存在主义
+
+        C端工具 | 游戏 | 社交 | XR应用
+
+        休过学，创过业，打过工，还在学习
+
+      - **其他**
+
+        起初是听[毛东的播客🔗](https://www.xiaoyuzhoufm.com/episode/61ce46e94f0dd5de5533ceda)，很有感触。</br >
+        一直是一个记忆很差的人，很多人事物都消失了，所以想做一些记录去对抗记忆。同时，高中时期写了不少文字，还是当时高考语文的校状元hh，但在那之后忙忙碌碌似乎丧失了写作的能力。而且，“我就像一条生活在水里的鱼，从来没有反思过我生活的这片水”，记录能够更好地助力反思和洞察。</br >
+        而相较于第三方平台，搭建一个属于自己的网站似乎是更好的选择。这对于零基础的自己也是一个不错的尝试。
+
+        与自己对话 | 对抗记忆 | 享受挑战
+
+      您也可以通过以下链接找到我。
+
+  socialIcons:
+    - name: twitter-simple
+      url: "https://twitter.com/zhouzhoukl?s=09"
+    - name: telegram-simple
+      url: "https://t.me/zhouzhoukl"
+    - name: default
+      url: "https://okjk.co/ko1LjX"
+    - name: gmail
+      url: "kele@thewan.cc"
+    - name: rss-simple
+      url: "index.xml"
+
+  links:
+    - name: Pseudoyu
+      url: https://www.pseudoyu.com
+      description: 区块链开发工程师，喜欢探索新技术
+      favicon: https://www.pseudoyu.com/images/author.webp
+    - name: 交换友链
+      url: https://t.me/zhouzhoukl
+      description: 可发邮件至 kele@thewan.cc,或添加 Telegram @zhouzhoukl。
+        # 我的博客信息
+        # 名称:Zhou's Home;
+        # 地址:https://www.zhouzhoukl.com;
+        # 头像:https://zhouzhoukl.com/images/avatar.jpeg;
+        # 描述:休过学，创过业，打过工，还在学习
+      favicon: https://zhouzhoukl.com/images/avatar.jpeg
+
+  # editPost:
+  #   URL: "https://github.com/reorx/hugo-PaperModX/tree/exampleSite/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  # assets:
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Blog
+          url: /blog/
+          weight: 1
+        # - name: Newsletter
+        #   url: /newsletter/
+        #   weight: 1
+        # - name: Tags
+        #   url: /tags/
+        #   weight: 4
+        - name: Archive
+          url: /archives/
+          weight: 5
+        - name: Links
+          url: /links/
+          weight: 5
+        # - name: Search
+        #   url: /search/
+        #   weight: 10
+        # - name: "@Author"
+        #   url: "https://reorx.com"
+        #   params:
+        #     external: true
+
+  # zh:
+  #   languageName: ":cn:"
+  #   languageAltTitle: 中文
+  #   weight: 2
+  #   title: PaperModX
+  #   profileMode:
+  #     enabled: true
+  #     title: PaperModX
+  #     # imageUrl: "#"
+  #     # imageTitle: my image
+  #     # imageWidth: 120
+  #     # imageHeight: 120
+  #     subtitle: >
+  #       <p>Hugo 主题</p>
+  #       ☄️ 快速 | ☁️ 流畅 | 📖 可读性 | 📱 响应式
+  #     buttons:
+  #       - name: 文档
+  #         url: docs
+  #       - name: 标签
+  #         url: tags
+  #   menu:
+  #     main:
+  #       - name: 文档
+  #         url: docs
+  #         weight: 1
+  #       # - name: 标签
+  #       #   url: tags/
+  #       #   weight: 4
+  #       - name: 归档
+  #         url: archives
+  #         weight: 5
+  #       # - name: 搜索
+  #       #   url: search/
+  #       #   weight: 10
+  #       # - name: "@作者"
+  #       #   url: "https://reorx.com"
+  #       #   params:
+  #       #     external: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
