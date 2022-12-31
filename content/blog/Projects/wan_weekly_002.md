@@ -9,16 +9,15 @@ tags:
 ShowToc: true
 writingTime: 20:20
 cover:
-  image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/WechatIMG3173.jpeg
+  image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/彼得·格里高利(Peter Gregory).jpg
 # socialLinks:
 #   twitter:
 #     user: novoreorx
 #     id: 1527333854759256065
 ---
 
-<div align='center'><img src="https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/彼得·格里高利(Peter Gregory).jpg" width="60%"></div>
-
 Hi，这里是 Wan，
+
 这一周也是默默研发的一周～
 
 ✅ 数据挖掘的讨论：主要讨论了一下其中 tag mapping 的逻辑和呈现方式，我们力求产品的每一个点都有其道理和价值，而不是无用的堆砌或者盲目的炫技。经过讨论变得比较清晰和明确了，希望是一个还不错的探索。

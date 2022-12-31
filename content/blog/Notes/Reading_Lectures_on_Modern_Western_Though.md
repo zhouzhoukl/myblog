@@ -8,8 +8,8 @@ tags:
   - Reading
 ShowToc: true
 writingTime: 04:57
-cover:
-  image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/彼得·格里高利(Peter Gregory).jpg
+# cover:
+#   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/彼得·格里高利(Peter Gregory).jpg
 # socialLinks:
 #   twitter:
 #     user: novoreorx

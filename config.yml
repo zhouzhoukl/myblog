@@ -1,15 +1,17 @@
 baseURL: "https://www.zhouzhoukl.com/"
 title: Zhou's Home
-paginate: 5
+# paginate: 5
 theme: hugo-PaperModX
 # NOTE remove this line if you copy exampleSite outof hugo-PaperModX
 
 enableInlineShortcodes: true
+hasCJKLanguage: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+timeZone: Asia/Shanghai
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
