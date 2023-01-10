@@ -1,5 +1,5 @@
 ---
-title: 创业指南 01 - 为什么不创业？
+title: 创业指南 01 - 为什么不创业
 slug: p1_why_not_to_do_a_startup
 date: 2022-12-31
 description: 创办一家初创公司会让你坐上“情绪”的过山车，这将会是你从未有过的经历。
@@ -19,7 +19,7 @@ writingTime: 2022-12-27 02:13
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 6 月 18 日 [^1]
 
-<div align='center'><img src="https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png" width="60%"></div>
+<div align='center'><img src="https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/The_pmarca_Blog_Archives.png" width="60%"></div>
 
 在这系列帖子中，我将分享我在创建高科技初创公司时积累的一些知识和经验。
 

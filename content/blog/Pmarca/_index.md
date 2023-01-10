@@ -2,7 +2,7 @@
 title: Pmarca
 description: Marc Andreessen | product market fit | The pmarca Blog Archives
 cover:
-  image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png
+  image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/The_pmarca_Blog_Archives.png
 ---
 
 > 本系列由 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) 撰写，最初发表在他的博客 [blog.pmarca.com](http://web.archive.org/web/20100615060031/http://blog.pmarca.com/) 上。
