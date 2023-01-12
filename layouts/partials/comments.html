@@ -1,4 +1,4 @@
-{{- /* You can add your own layouts/comments.html to override this file */ -}}
+<!-- {{- /* You can add your own layouts/comments.html to override this file */ -}}
 
 {{- $pageCommentSystems := .Param "pageCommentSystems"}}
 {{- if not $pageCommentSystems }}
@@ -24,4 +24,17 @@
     {{- partial "disqus.html" (dict "page" $page "ctx" .) }}
   {{- end -}}
   {{- end -}}
-{{- end -}}
+{{- end -}} -->
+
+<br>
+<div id="cusdis_thread"
+  data-host="https://kele-cusdis.vercel.app"
+  data-app-id="6b29573e-dba9-41a9-9b2d-455d452c0dff"
+  data-page-id="{{ .File.UniqueID }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
+>
+</div>
+
+<script defer src="https://kele-cusdis.vercel.app/js/cusdis.es.js"></script>
+<script async defer src="https://kele-cusdis.vercel.app/js/cusdis.es.js"></script>
