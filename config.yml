@@ -85,7 +85,7 @@ params:
 
         除了编程不行啥都能搞搞的半吊子创业者，正在创造有趣的产品···
 
-        除了主业在做的事外，还在做且发展一些自由职业或是副业，探索多元的发展和收入构成，消耗旺盛的精力和时间（由于凡事有其节奏，常会感觉没有填满），更重要的是支撑创业低谷期等不确定性阶段。
+        除了主业在做的事外，还在做且发展一些自由职业或是副业，探索多元的发展和收入构成，消耗旺盛的精力和时间（事有节奏，难以填满），更重要的是支撑创业低谷期等不确定性阶段。
 
       - **简介**
 
@@ -191,10 +191,10 @@ languages:
         - name: Search
           url: /search/
           weight: 10
-        - name: "Wan. Inc"
-          url: "https://www.thewan.cc"
-          params:
-            external: true
+        # - name: "Wan. Inc"
+        #   url: "https://www.thewan.cc"
+        #   params:
+        #     external: true
 
   # zh:
   #   languageName: ":cn:"

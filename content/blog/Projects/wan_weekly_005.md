@@ -1,5 +1,5 @@
 ---
-title: Wan Weekly 05 - Keep going
+title: Wan Weekly 005 - Keep going
 slug: wan_weekly_005
 date: 2023-01-13
 description: The Right It
