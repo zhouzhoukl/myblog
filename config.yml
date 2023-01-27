@@ -191,7 +191,7 @@ languages:
         - name: Search
           url: /search/
           weight: 10
-        - name: "Wan,Inc."
+        - name: "Wan, Inc."
           url: "https://www.thewan.cc"
           params:
             external: true
