@@ -10,10 +10,10 @@ ShowToc: true
 writingTime: 22:23
 cover:
   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/WechatIMG3173.jpeg
-# socialLinks:
-#   twitter:
-#     user: novoreorx
-#     id: 1527333854759256065
+socialLinks:
+  twitter:
+    user: thewancc
+    id: 1618855197555707906
 ---
 
 Hi，这里是 [Wan](https://www.thewan.cc/)，

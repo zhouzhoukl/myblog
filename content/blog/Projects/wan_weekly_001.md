@@ -1,5 +1,5 @@
 ---
-title: Wan Weekly 001 - 源起
+title: Wan Weekly 001 - Hello, World
 slug: wan_weekly_001
 date: 2022-12-16
 description: Hello, World
@@ -10,10 +10,10 @@ ShowToc: true
 writingTime: 22:23
 cover:
   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/pexels-cottonbro-studio-8721342.jpg
-# socialLinks:
-#   twitter:
-#     user: novoreorx
-#     id: 1527333854759256065
+socialLinks:
+  twitter:
+    user: thewancc
+    id: 1618947773843537921?s=19
 ---
 
 Hi，这里是 [Wan](https://www.thewan.cc/)，
