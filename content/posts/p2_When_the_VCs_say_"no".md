@@ -65,6 +65,14 @@ writingTime: 2022-01-03 06:34
 
 第三，重新制定你的计划。
 
+这是困难的部分——改变你的计划的事实以及你想要做的事情，使你的公司更能够获得资金。
+
+为了描述你在考虑重新制定计划时应该考虑的因素，让我向你介绍风险的洋葱理论。
+
+如果你是投资者，你会像看洋葱一样看待投资的风险。就像你削去洋葱的每一层一样，初创公司投资中的风险分层出现——一层一层地削减。
+
+你作为一个试图筹集风险资本的企业家的挑战是不断削减你特定洋葱的风险层，直到风投说“yes”——直到你的初创公司的风险降至可以投资的程度，而不是看起来可怕。只是看起来有风险。
+
 [^1]: 本文由 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) 撰写，最初发表在他的博客 [blog.pmarca.com](http://web.archive.org/web/20100615060031/http://blog.pmarca.com/) 上。这些文章可能是关于商业和初创企业的最佳著作之一，但它们多年前已被删除。网上能够找到一些存档或PDF，但多是英文的，对于国人不太友好。同时，又觉得网页翻译等机翻比较生硬，会导致有些内容看不懂。另外，发现身边知道的朋友相对较少。所以，便想做做翻译的工作。还能锻炼自己的英文hh如有错漏，欢迎批评指正～！
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f9569f9d5e2464e9f1a094c2bb65d66"}'></script><!-- End Cloudflare Web Analytics -->
