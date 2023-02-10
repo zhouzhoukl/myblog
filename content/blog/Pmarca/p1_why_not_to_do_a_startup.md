@@ -11,10 +11,10 @@ ShowToc: true
 writingTime: 2022-12-27 02:13
 # cover:
 #   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png
-# socialLinks:
-#   twitter:
-#     user: novoreorx
-#     id: 1527333854759256065
+socialLinks:
+  twitter:
+    user: zhouzhoukl
+    id: 1623878732305039361
 ---
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 6 月 18 日 [^1]
