@@ -1,7 +1,7 @@
 ---
 title: 创业指南 02 - 当风投说“no”
 slug: p2_When_the_VCs_say_"no"
-date: 2023-02-13
+date: 2023-02-14
 description: 为了描述你在考虑重新制定计划时应该考虑的因素，让我向你介绍风险的洋葱理论。
 tags:
   - Creator
@@ -14,7 +14,7 @@ writingTime: 2023-01-03
 socialLinks:
   twitter:
     user: zhouzhoukl
-    id: 1623883372077645824
+    id: 1625431072438906881
 ---
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 6 月 20 日 [^1]
