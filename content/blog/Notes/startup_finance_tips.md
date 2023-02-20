@@ -11,10 +11,10 @@ ShowToc: true
 writingTime: 2022-02-13
 # cover:
 #   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png
-# socialLinks:
-#   twitter:
-#     user: zhouzhoukl
-#     id: 1623883372077645824
+socialLinks:
+  twitter:
+    user: zhouzhoukl
+    id: 1627635625267728386
 ---
 
 > 多年看过记过收藏的内容，只是搬运整理。会持续维护完善，希望能够在一定程度上实现一网打尽的目的。
@@ -34,6 +34,10 @@ writingTime: 2022-02-13
 
 ### <mark>为什么要融资
 
+能不能融资：我的项目是不是风投关注的类型？
+
+要不要融资：融资除了带给我钱，还有什么其他价值？
+
 #### 能不能融资
 
 因为投资风险很高，投资人普遍愿意投“能做大”的项目。
@@ -46,7 +50,7 @@ writingTime: 2022-02-13
 
 #### 要不要融资
 
-拿 VC 的钱，核心是看各个阶段是否融资可以带来很大助理，主要有 5 个价值：
+拿 VC 的钱，核心是看各个阶段是否融资可以带来很大助力，主要有 5 个价值：
 
 1. 买生存的机会：探索方向，验证商业模式
 2. 买做大的机会：加速发展，快速增长做大
@@ -207,7 +211,7 @@ writingTime: 2022-02-13
 
 **检查点 1：关键问题是否都已回答**
 
-BP 最重要的是回答投资人最关心的问题，按照我们总结的 6w1h 问题清单，请检查你的 BP 是否有遗漏：
+BP 最重要的是回答投资人最关心的问题，按照总结的 6w1h 问题清单，请检查你的 BP 是否有遗漏：
 
 - Who：你们是谁？
 - Where：目标市场有多大？
@@ -247,11 +251,11 @@ BP 最重要的是回答投资人最关心的问题，按照我们总结的 6w1h
 
 思考维度：定义目标市场、市场天花板、行业集中度和壁垒。
 
-**检查点 7：痛点是否足够清晰，说清楚你到底想解决什么问题投**
+**检查点 7：痛点是否足够清晰，说清楚你到底想解决什么问题**
 
-资人是否真的可以读懂你想解决什么问题？
+投资人是否真的可以读懂你想解决什么问题？
 
-如果不是100%清晰，请打磨一下表达。
+如果不是100%清晰，请打磨表达。
 
 **检查点 8：是否讲清楚商业模式**
 
@@ -260,7 +264,7 @@ BP 最重要的是回答投资人最关心的问题，按照我们总结的 6w1h
 **检查点 9：是否清晰理解竞争环境，并客观评价**
 
 竞争对手是谁？差异化定位和竞争力是什么？
-考虑一下是否需要讲清楚，可以参考一下那些明星项目是怎么表达的。
+考虑是否需要讲清楚，可以参考那些明星项目是怎么表达的。
 
 **检查点 10：是否解释清楚了运营现状**
 
@@ -296,9 +300,9 @@ BP 最重要的是回答投资人最关心的问题，按照我们总结的 6w1h
 
 **检查点 15：检查表达，不要浮夸、吹牛和言过其实**
 
-注意，以下内容写在 BP 里会大大减分成
+注意，以下内容写在 BP 里会大大减分
 
-- 为下一个阿里巴巴/腾讯
+- 成为下一个阿里巴巴/腾讯
 - 我们公司经纬定了A轮，红杉定了B轮，现在就差一个天使了
 - 中国XXX第一人（但简历又平淡无奇）
 - 我们立志成为全球最大的XX（实际上产品还没做出来）
@@ -385,7 +389,7 @@ BP 制作后，请在手机端测试，可以正常打开和阅读。
 - [《创业之初的融资知识》](https://book.douban.com/subject/4894684/)：有理论有实例，干货充足的工具书。
 - [a16z](https://a16z.com/)：近年最热的投资机构。
 - [红杉资本](https://www.sequoiacap.cn/)：阅读风投博客好处多多。
-- [Bessemer Venture Partners](https://www.bvp.com/)美国最古老的风投公司,非常有自嘲精神的在自己公司官网列举了历史上曾经据掉的找上门来的投资机会,和当时拒绝的原因。
+- [Bessemer Venture Partners](https://www.bvp.com/)：美国最古老的风投公司，非常有自嘲精神的在自己公司官网列举了历史上曾经拒掉的找上门来的投资机会，和当时拒绝的原因。
 - [Y Combinator](https://www.ycombinator.com/)：由企业家保罗·格雷厄姆和他的合伙人创立的，为早期初创企业提供资金支持，并在硅谷和波士顿开展有组织的项目，然后确保好的项目能够得到风险投资的跟进资金。
 - [Hacker News](https://news.ycombinator.com/)：Y Combinator 旗下论坛社区。
 - [齐思](https://news.miracleplus.com/)：Hacker News 中国版，由奇绩创坛发起。
@@ -400,7 +404,7 @@ BP 制作后，请在手机端测试，可以正常打开和阅读。
 - [《反 Pitch 手册：投资人想看这些》](https://mp.weixin.qq.com/s/3t4BVyOWSky1Io_KL1yVUw)
 - [Hashicorp Corporate Pitch Deck Stenio_v2](https://www.slideshare.net/stenio123/hashicorp-corporate-pitch-deck-steniov2)
 - [AirBnB Pitch Deck](https://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-- [在签署 term sheet 时，创业者有哪些需要注意的地方？](https://www.zhihu.com/question/19833841)
+- [《在签署 term sheet 时，创业者有哪些需要注意的地方？》](https://www.zhihu.com/question/19833841)
 - 还有一些文件资料(如 1000 名投资人名单及联系方式汇总、投融资相关标准文件等)，不方便上传，欢迎联系获取
 
 ![](https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/截屏pebook.png)
