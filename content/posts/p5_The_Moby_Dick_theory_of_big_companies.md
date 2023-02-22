@@ -21,6 +21,28 @@ socialLinks:
 
 <div align='center'><img src="https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/The_pmarca_Blog_Archives.png" width="60%"></div>
 
-这篇文章是关于新创业公司唯一重要的事情。
+“那里冒出水花了！”桅杆顶传来叫声。
+
+“在哪里？”船长问道。
+
+“在风帆左侧三分之一偏下的方向，先生。”
+
+“扶正轮盘。保持定向！”“保持定向，先生。”
+
+“桅头的人啊，你看到鲸鱼了吗？”
+
+“是的，先生！是一群抹香鲸！那里冒出水花！那里跃出水面！”
+
+“每次看到都喊出来！”
+
+“是的，先生！那里冒出水花了！那里，那里，那里买出水花了——咆哮——咆哮——咆哮！”
+
+“离我们有多远？”
+
+“两英里半。”
+
+“好家伙！这么近！叫齐所有船员！”
+
+—— J. Ross Browne的《捕鲸之旅铜版画》，1846
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f9569f9d5e2464e9f1a094c2bb65d66"}'></script><!-- End Cloudflare Web Analytics -->
