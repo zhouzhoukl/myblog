@@ -11,10 +11,10 @@ ShowToc: true
 writingTime: 2022-02-17
 # cover:
 #   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png
-# socialLinks:
-#   twitter:
-#     user: zhouzhoukl
-#     id: 1623883372077645824
+socialLinks:
+  twitter:
+    user: zhouzhoukl
+    id: 1628372245654675459
 ---
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 6 月 25 日 [^1]
@@ -48,9 +48,9 @@ writingTime: 2022-02-17
 （在本次讨论中，让我们建设在规模上你能赚钱，即获取客户的成本不高于该客户产生的收入。）
 
 > 有些人对我的分类进行了反驳：“如果没有人想要一种产品，那么这个产品有多好呢？”换句话说，产品的质量是否取决于多少顾客喜欢它？
-> 
+>
 > 不是的。产品质量和市场规模是完全不同的。
-> 
+>
 > 以下是典型的情况：面向没有人使用的操作系统的世界上最好的软件应用程序。问问任何针对 BeOS, Amiga, OS/2, or NeXT 应用程序市场的软件开发人员，优秀的产品与大市场之间的区别是什么。
 
 **那么：**
@@ -159,6 +159,8 @@ VMWare 是最近成功的例子——VMWare 的产品刚推出时就具有深远
 
 因为，实际上，还有什么可能呢？
 
-编辑注：这篇文章显然引发了比解答更多的问题。如果你没有一开始就找对市场和产品，该如何才能达到产品/市场匹配呢？在市场尚未完全形成之前，如何评估市场的大小和质量？什么样的产品可以适应市场？时机在其中扮演了什么角色？何时需要改变策略，寻求不同的市场或开发不同的产品？何时需要更换部分或全部团队？为什么不能仅仅依靠一个优秀的团队来开发出合适的产品和找到合适的市场？所有这些话题将在本系列的未来文章中讨论。
+编者注：这篇文章显然引发了比解答更多的问题。如果你没有一开始就找对市场和产品，该如何才能达到产品/市场匹配呢？在市场尚未完全形成之前，如何评估市场的大小和质量？什么样的产品可以适应市场？时机在其中扮演了什么角色？何时需要改变策略，寻求不同的市场或开发不同的产品？何时需要更换部分或全部团队？为什么不能仅仅依靠一个优秀的团队来开发出合适的产品和找到合适的市场？所有这些话题将在本系列的未来文章中讨论。
+
+[^1]: 本文由 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) 撰写，最初发表在他的博客 [blog.pmarca.com](http://web.archive.org/web/20100615060031/http://blog.pmarca.com/) 上。这些文章可能是关于商业和初创企业的最佳著作之一，但它们多年前已被删除。网上能够找到一些存档或PDF，但多是英文的，对于国人不太友好。同时，又觉得网页翻译等机翻比较生硬，会导致有些内容看不懂。另外，发现身边知道的朋友相对较少。所以，便想做做翻译的工作。还能锻炼自己的英文hh如有错漏，欢迎批评指正～！
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9f9569f9d5e2464e9f1a094c2bb65d66"}'></script><!-- End Cloudflare Web Analytics -->
