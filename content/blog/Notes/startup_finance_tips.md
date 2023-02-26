@@ -173,10 +173,15 @@ socialLinks:
 - **Deck**：Pitch Deck，商业计划书的演示PPT
 - **Teaser**：投资概要
 - **Mapping**：行业整体全景图
-- **Soucing**：寻找项目
+- **Sourcing**：寻找项目
 - **Cold call**：电话陌拜
 - **Know-how，insight**：洞察/认知
 - **Benchmark**：对标公司/基准线
+- **Roadshow**：路演
+- **OP**：Option Pool，期权池
+- **Memo**：Memorandum，项目备忘录或内部立项简报
+- **Scout**：兽探，类似星探，挖掘独角兽
+- **Pitch Words**：项目推介文
 
 #### <mark>投资一般工作流程
 
