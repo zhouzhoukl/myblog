@@ -1,6 +1,6 @@
 ---
-title: 创业指南 07 - 为什么初创公司的初始商业计划并不那么重要
-slug: p7_Why_a_startup's_initial_business_plan_doesn't_matter_that_much
+title: 创业指南 08 - 招聘、管理、提拔和解雇高管
+slug: p8_Hiring_managing_promoting_and_Dring_executives
 date: 2023-02-
 description: 根据定义，您将在一个非常不确定的世界中做一些新的事情。您可能根本不知道您最初的想法是否会作为产品和业务发挥作用。而且您可能必须在进行过程中快速改进您的计划——可能是它的每个方面。
 tags:
@@ -8,7 +8,7 @@ tags:
   - Startups
   - Translate
 ShowToc: true
-writingTime: 2022-03-06
+writingTime: 2022-03-11
 # cover:
 #   image: https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/the pmarca blog archives.png
 socialLinks:
@@ -17,11 +17,9 @@ socialLinks:
     id: 1623883372077645824
 ---
 
-> [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 7 月 31 日 [^1]
+> [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 8 月 28 日 [^1]
 
 <div align='center'><img src="https://zhouzhoukl.oss-cn-hangzhou.aliyuncs.com/images/The_pmarca_Blog_Archives.png" width="60%"></div>
-
-创业公司最初的商业计划并不重要，因为很难事先准确确定什么样的产品和市场组合会带来成功。
 
 
 
