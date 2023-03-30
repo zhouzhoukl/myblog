@@ -14,7 +14,7 @@ writingTime: 2022-03-11
 socialLinks:
   twitter:
     user: zhouzhoukl
-    id: 1623883372077645824
+    id: 1641350037136617472
 ---
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 8 月 28 日 [^1]

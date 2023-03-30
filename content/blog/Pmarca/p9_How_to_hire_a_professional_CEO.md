@@ -1,8 +1,8 @@
 ---
-title: 创业指南 09 - 招聘、管理、提拔和解雇高管
+title: 创业指南 09 - 如何聘请专业的 CEO
 slug: p9_How_to_hire_a_professional_CEO
 date: 2023-03-30
-description: 如果你的创始团队中没有人有能力担任首席执行官，那么就卖掉你的公司--现在。
+description: 如果你的创始团队中没有人有能力担任 CEO，那么就卖掉你的公司--现在。
 tags:
   - Creator
   - Startups
@@ -14,7 +14,7 @@ writingTime: 2022-03-30
 socialLinks:
   twitter:
     user: zhouzhoukl
-    id: 1623883372077645824
+    id: 1641350457250705409
 ---
 
 > [马克·安德森](https://en.wikipedia.org/wiki/Marc_Andreessen)发布于 2007 年 8 月 30 日 [^1]
