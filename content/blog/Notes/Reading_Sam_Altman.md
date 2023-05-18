@@ -354,7 +354,7 @@ Oh Yes，谈到赚钱，你需要想办法实现这一点。
 
 感谢 Paul Buchheit, Erica Carpenter, Brian Chesky, Adam D』Angelo, Drew Houston, Justin Kan, Matt Krisiloff, Aaron Levie, Gabriel Leydon, Jessica Livingston, Dustin Moskovitz, David Rusenko and Colleen Taylor for contributing thoughts to this.
 
-[1] 本文翻译的即刻 ID：海松
+[^1]: 本文翻译的即刻 ID：海松
 
 来自海松：翻译本文，作为我对即刻创业者社区，和中文创业社区，和 YC 的一点致敬。
 
