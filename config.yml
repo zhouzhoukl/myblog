@@ -7,7 +7,7 @@ theme: hugo-PaperModX
 enableInlineShortcodes: true
 hasCJKLanguage: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 enableEmoji: true
